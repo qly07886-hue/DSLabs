@@ -4,28 +4,100 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc7eb38-7360-42d1-83cb-b930948f81d3" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSlabs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cfc7eb38-7360-42d1-83cb-b930948f81d3" name="Changes" comment="v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "qly07886-hue"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/qly07886-hue/DSLabs.git",
+    "accountId": "5ee72c0e-a355-441f-866e-9b01aea09943"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.534616399126841E-69" />
+      <entry key="MS500" value="3.705390781128956E-14" />
+      <entry key="S2" value="0.001158738402962521" />
+      <entry key="S5" value="0.20388415539713095" />
+      <entry key="S10" value="1.2432441864938901" />
+      <entry key="S30" value="4.2741768370686515" />
+      <entry key="S60" value="5.842845292320438" />
+      <entry key="M2" value="6.835497148708439" />
+      <entry key="M5" value="7.511749418273673" />
+      <entry key="M10" value="7.751969326247246" />
+      <entry key="M15" value="7.833765783202653" />
+      <entry key="M30" value="7.916439488213676" />
+      <entry key="H1" value="7.95810829172277" />
+      <entry key="H2" value="7.979026207210756" />
+      <entry key="H4" value="7.989506109475646" />
+      <entry key="D1" value="7.99825004603444" />
+      <entry key="W1" value="7.999749982756589" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000417859136" />
+      <entry key="S2" value="1.0174812331503433" />
+      <entry key="S5" value="1.2831917725303335" />
+      <entry key="S10" value="1.7443945622057757" />
+      <entry key="S30" value="2.4350813804237785" />
+      <entry key="S60" value="2.693627513206727" />
+      <entry key="M2" value="2.8403061983575975" />
+      <entry key="M5" value="2.934487401194353" />
+      <entry key="M10" value="2.966964836282768" />
+      <entry key="M15" value="2.977914108139494" />
+      <entry key="M30" value="2.988925708608183" />
+      <entry key="H1" value="2.9944549952105732" />
+      <entry key="H2" value="2.9972255299835453" />
+      <entry key="H4" value="2.998612272729831" />
+      <entry key="D1" value="2.999768643721644" />
+      <entry key="W1" value="2.9999669474275956" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.489927546975958E-25" />
+      <entry key="MS500" value="1.4543978554626767E-5" />
+      <entry key="S2" value="0.07325964812550517" />
+      <entry key="S5" value="0.747153157061478" />
+      <entry key="S10" value="2.453402119489495" />
+      <entry key="S30" value="6.4608512809629275" />
+      <entry key="S60" value="8.399481241230294" />
+      <entry key="M2" value="9.603686719274116" />
+      <entry key="M5" value="10.416459858936834" />
+      <entry key="M10" value="10.703885194518424" />
+      <entry key="M15" value="10.80161116706434" />
+      <entry key="M30" value="10.900312690250033" />
+      <entry key="H1" value="10.950032477743106" />
+      <entry key="H2" value="10.97498519113845" />
+      <entry key="H4" value="10.98748482350115" />
+      <entry key="D1" value="10.997913056934976" />
+      <entry key="W1" value="10.999701838808491" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Ln6j09SlxqbPZqwUhXPSuryfoq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,7 +118,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/DSlabs/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -69,19 +144,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
